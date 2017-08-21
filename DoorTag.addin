@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">    
+    <Assembly>
+      C:\Users\dobbs\Desktop\test\DoorTag.dll
+    </Assembly>
+    <ClientId>03639cb0-a2de-4ca8-8022-97976f89387d</ClientId>
+    <FullClassName>DoorTag</FullClassName>
+    <Text>DoorTag</Text>
+    <VendorId>ADSK</VendorId>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+</RevitAddIns>
